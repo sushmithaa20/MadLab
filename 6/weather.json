@@ -1,0 +1,9 @@
+{
+    "weather" : {
+      "cityname" : "Mangalore",
+      "latitude" : "19.5",
+      "longitude" : "12.5",
+      "temperature" : "32",
+      "humidity" : "25"
+    }
+  }
