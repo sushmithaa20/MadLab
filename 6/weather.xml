@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<weather>
+    <cityname>Mangalore</cityname>
+    <latitude>18.5</latitude>
+    <longitude>12.9</longitude>
+    <temperature>32</temperature>
+    <humidity>25</humidity>
+</weather>
